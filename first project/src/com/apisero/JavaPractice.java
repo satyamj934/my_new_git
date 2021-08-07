@@ -9,7 +9,7 @@ public class JavaPractice {
 		// demostrate data types
 		boolean b=true;
 		byte by=12;
-		short sh=23;
+		short sh=24;
 		int i=22;
 		long l=422L;
 		float f=2.12f;
